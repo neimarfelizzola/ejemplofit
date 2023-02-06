@@ -1,0 +1,99 @@
+.logo {
+    color: indigo;
+    font-size: 50px;
+    padding: 20px 80px;
+    float: left;
+}
+
+.navegacion {
+    padding: 80px;
+    float: left;
+    background-color: aqua;
+    margin: 10px 10px 60px 540px;
+    
+
+}
+
+.navegacion .nav {
+    padding: 10px;
+    font-size: 30px;
+    margin: 10px;
+    
+}
+
+.segunda {
+    clear: both;
+    background: rgb(0, 18, 101);
+    padding: 200px;
+    font-size: 30px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.segunda .boton {
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 20px;
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.subtitulo {
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+}
+
+.parrafo1 {
+    font-size: 20px;
+    padding: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pasion {
+    text-align: center;
+    background-color: rgb(231, 9, 9);
+    
+}
+
+.pasion .empezar {
+    background-color: indianred;
+    font-size: 40px;
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 40px;
+}
+
+.problema {
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+.card {
+    margin: 40px;
+    
+}
+
+
+.empezar {
+    background-color: blueviolet;
+   
+}
+
+.aburren {
+    background-color: chartreuse;
+}
+
+.entrenar {
+    background-color: brown;
+    
+}
+
+.title-final {
+    font-size: 30px;
+}
+
+
